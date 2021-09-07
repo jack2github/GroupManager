@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "hhttps://github.com/xditya/GroupManager",
+  "repository": "hhttps://github.com/jack2github/GroupManager",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -25,7 +25,7 @@
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "xditya"
+      "value": "jack_is_noob"
     },
   
     "URL": {
